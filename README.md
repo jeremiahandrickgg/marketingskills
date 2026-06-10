@@ -1,7 +1,8 @@
 # Marketing Skills for Claude Code
-**Creating a fork for Marketing Physical Goods. The context for this is "Hard Tech" where hardware and software are both a part of the product. The Original Marketing Skills by Corey Haines is highly focused on SaaS, and while there is overlap, this set of skills focuses on Monetization through DTC Sales and Channel Distribution.**  
+**What is Hard Tech Marketing?**
+Hard Tech is a common description for companies that build both physical goods and software where the distribution is both direct to consumer and through commercial sales channels. 
 
-A collection of AI agent skills focused on marketing tasks. Built for technical, growth, and product marketers working on physical goods.(or similar AI coding assistants) to help with conversion optimization, copywriting, SEO, analytics, and growth engineering.
+This is a collection of AI agent skills focused on marketing tasks. Built for technical, growth, and product marketers working on physical goods and softwware addoption where the goal is to drive revenue and LTV of the products or categories. (or similar AI coding assistants) to help with conversion optimization, copywriting, SEO, analytics, and growth engineering.
 
 Built by [Corey Haines](https://corey.co?ref=marketingskills). Need hands-on help? Check out [Conversion Factory](https://conversionfactory.co?ref=marketingskills) — Corey's agency for conversion optimization, landing pages, and growth strategy. Want to learn more about marketing? Subscribe to [Swipe Files](https://swipefiles.com?ref=marketingskills).
 
